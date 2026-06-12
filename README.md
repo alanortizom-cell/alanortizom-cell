@@ -44,3 +44,8 @@ I am a passionate **Full-Stack Developer** and Systems Engineering student focus
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hey there, I'm <span style="color:#2f81f7">Alan</span> 👋
+
+I thrive on challenges and take pride in crafting clean, optimal solutions. As a Full-Stack Developer and Systems Engineering student, I specialize in building robust applications for web and backend platforms using modern tech stacks, always following industry best practices and conventions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanortizom@gmail.com)
