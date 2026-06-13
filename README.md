@@ -44,7 +44,7 @@ I am a passionate **Full-Stack Developer** and Systems Engineering student focus
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey there, I'm <span style="color:#2f81f7">Alan</span> 👋
+# Hey there, I'm <a href="https://cv-kappa-tan.vercel.app/" style="color:#2f81f7">Alan</a> 👋
 
 I thrive on challenges and take pride in crafting clean, optimal solutions. As a Full-Stack Developer and Systems Engineering student, I specialize in building robust applications for web and backend platforms using modern tech stacks, always following industry best practices and conventions.
 
